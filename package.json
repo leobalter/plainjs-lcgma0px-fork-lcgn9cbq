@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/leobalter.plainjs-lcgma0px-fork-lcgn9cbq",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve PunjWK1b5CIl5ksqRObo --open"
+  }
+}
